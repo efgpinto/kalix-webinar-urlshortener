@@ -2,7 +2,8 @@ package com.example;
 
 import java.util.Arrays;
 
-// copied from: https://github.com/glowfall/base62
+// This Base62 implementation was copied from: https://github.com/glowfall/base62
+// All credits to the original author.
 
 /**
  * Provides Base62 encoding and decoding.
