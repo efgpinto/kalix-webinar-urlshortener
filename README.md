@@ -1,6 +1,8 @@
 # url-shortener
 
-**NOTE**: this project was created as part of a live coding session for a Kalix webinar. Thus, it is not intended for production use but merely as an educational exercise. Webinar's recording can be found [here](https://www.kalix.io/developer/webinar/seamless-local-development-swift-feedback-cycles-kalix).
+⚠️ **NOTE** ⚠️: this project was created as part of a live coding session for a Kalix webinar. Thus, it is not intended for production use but merely as an educational exercise. Webinar's recording can be found [here](https://www.kalix.io/developer/webinar/seamless-local-development-swift-feedback-cycles-kalix).
+
+## Instructions
 
 To understand the Kalix concepts that are the basis for this example, see [Designing services](https://docs.kalix.io/java/development-process.html) in the documentation.
 
