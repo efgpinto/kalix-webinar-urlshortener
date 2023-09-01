@@ -1,4 +1,4 @@
-# url-shortener
+# Kalix Webinar - Basic URL Shortener
 
 ⚠️ **NOTE** ⚠️: this project was created as part of a live coding session for a Kalix webinar. Thus, it is not intended for production use but merely as an educational exercise. Webinar's recording can be found [here](https://www.kalix.io/developer/webinar/seamless-local-development-swift-feedback-cycles-kalix).
 
